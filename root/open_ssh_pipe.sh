@@ -9,7 +9,7 @@ if [[ -z "$target_host" || -z "$target_port" ]] ; then
 fi
 
 while [ true ] ; do
-   ssh -g -R $target_port:localhost:22 beagle@${target_host} -N
+   ssh -4 -g -R $target_port:localhost:22 beagle@${target_host} -N
    sleep 5
 done
 
