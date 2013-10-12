@@ -1,0 +1,7 @@
+# Defaults for esekeyd initscript
+
+# Start esekeyd on boot (set it to "true" to enable)
+START_ESEKEYD=true
+
+# Daemon options, at last config location must be present
+DAEMON_OPTS="/etc/esekeyd.conf /dev/input/event1"

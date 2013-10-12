@@ -1,0 +1,9 @@
+--username XXXXXXXXXx
+--password XXXXXXXXXXXXX
+--update_period 6000
+--forced_update_period 320000
+--alias XXXXX.undo.it,XXXXXXXXXXXXXXXXXx
+--background
+--dyndns_system default@freedns.afraid.org
+--syslog
+

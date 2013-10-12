@@ -1,0 +1,2 @@
+inadyn espeak alsa-utils ledmon git esekeyd iptables-persistent 
+
