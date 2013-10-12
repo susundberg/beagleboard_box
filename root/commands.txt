@@ -1,0 +1,8 @@
+
+# Save alsa settings, test that output sound works
+alsactl store
+
+sshd - configuration
+GatewayPorts yes
+
+
